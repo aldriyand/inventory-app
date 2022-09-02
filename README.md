@@ -18,5 +18,5 @@ Please refer to the [Laravel 9 Docs](https://laravel.com/docs/9.x/) for Laravel 
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-Please see [AdminKit](https://github.com/adminkit/adminkit) for AdminKit template.
+- The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- Please see [AdminKit](https://github.com/adminkit/adminkit) for AdminKit template.
